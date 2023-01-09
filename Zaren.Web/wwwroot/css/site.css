@@ -1,0 +1,286 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}
+
+#cities_tablediv {
+    margin-left:auto;
+    margin-right:auto;
+}#cities_tablediv table {
+     border-spacing:5px;
+ }
+ table td{
+     margin-right:20px;
+ }
+#users_table th {
+    width: 15%;
+}
+#cities_table th{
+    width:10%;
+}
+td {
+    padding-left: 7.5px;
+    padding-right: 7.5px;
+}
+
+    td:first-child {
+        padding-left: 0;
+    }
+
+    td:last-child {
+        padding-right: 0;
+    }
+
+table {
+    border-spacing: 30px 0px;
+}
+#full_hotel_detaildiv {
+    /*
+    background-color:dodgerblue; width:100%;
+    z-index:0;height:100vh;
+    padding-left:10px; padding-right:10px;*/
+}
+#full_hotel_detaildiv img{
+    max-width:500px;
+}
+#hotel_detaildiv {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    /*justify-content: center;
+    border-left: solid 1px rgb(128, 128, 128, 0.4);
+    border-right: solid 1px rgb(128, 128, 128, 0.4);*/
+    /*z-index:1; background-color:white;
+    width:70%;min-width:500px;
+    height:100%;*/
+}
+#hotel_detaildiv h1{
+    color:Highlight;
+}
+#hotel_detaildiv > div{
+    margin-top:5px;margin-bottom:10px;
+}
+.make_reservation_anchor{
+    display:flex; align-items:end; justify-content:end;
+    padding-right:10%; 
+    font-weight:600;
+    font-size:18px; 
+    color:royalblue;
+}
+.hotel_detail_info_title {
+    color: mediumblue;
+    font-weight: 600;
+}
+.currency_span {
+    font-weight: 600;
+    color: forestgreen;
+}
+.Scores {
+    margin-top: 12px;
+}
+#traveller_number_container {
+    width: 500px; margin-right:auto; margin-left:auto;
+    border-left: solid 1px rgb(128, 128, 128, 0.4);
+    border-right: solid 1px rgb(128, 128, 128, 0.4);
+    padding: 15px;
+}
+#traveller_number_container h3{
+    text-align:center;
+    margin-bottom:15px;
+}
+#traveller_number_inputdiv {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column; align-items:center;
+    width: 150px;
+}
+#traveller_number_inputdiv button{
+    margin:10px;
+    width:100px;
+}
+#traveller_formsdiv{
+    margin-right:auto;margin-left:auto;
+}
+#traveller_formsdiv form{
+    display:flex;
+    margin-right:auto;margin-left:auto;
+}
+.active_user {
+    color: forestgreen;
+}
+.inactive_user {
+    color:red;
+}
+.user_register_inputfield {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+}
+user_register_inputfield label{
+    margin-bottom:2px;
+}
+#user_register_buttonfield {
+    margin-bottom: 10px;
+    display: flex;
+    padding: 3px;
+}
+#user_register_buttonfield button{
+    margin-right:5px;
+}
+#user_info_tablediv {
+    margin-right: auto;
+    margin-left: auto;
+}
+#add_user_anchordiv {
+    margin-top: 5px;
+    margin-bottom: 15px;
+    padding: 2px;
+    max-width: 75px;
+    display: flex;
+}
+#add_user_anchor {
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 600;
+}
+.intro_city_div button {
+    margin-top: 10px !important;
+}
+#citysearch{
+    margin-top:5px!important;
+    margin-bottom:10px!important;
+}
+#booking_details {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left:10px; padding-right:10px;
+    max-width: 700px;
+    border-left: 1px solid rgb(128, 128, 128);
+    border-right: 1px solid rgb(128, 128, 128);
+}
+#booking_details span{
+    margin-right:15px;
+    margin-bottom:10px;
+}
+.traveller_form_field {
+    margin: 10px;
+    padding:7px;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid rgb(128, 128, 128,1);
+    border-radius: 1px;
+}
+.traveller_form_field input{
+    margin-right:10px;
+    margin-bottom:10px;
+    width:150px;
+}
+#traveller_container {
+    display: flex !important;
+}
+#booking_details_sections > div{
+    margin-bottom:15px;
+}
+#hotels_container{
+    margin-left:auto;
+    margin-right:auto;
+    padding-left:10px;
+    padding-right:10px;
+}
+.hotel_list_element {
+    height: 250px !important;
+    display: flex;
+
+}
+.hotel_list_element .imgdiv{
+    height:200px; width:200px;
+    margin:10px;overflow:hidden;
+    background-color:white;
+}
+.hotel_list_element img{
+    width:200px;
+    height:200px;
+    min-height:200px;
+    min-width:200px;
+    margin:10px;
+    
+}
+#details_anchor {
+    font-size: 15px;
+    font-weight: 600;left:auto;
+    right: 0;
+    margin-top: 20px;
+}

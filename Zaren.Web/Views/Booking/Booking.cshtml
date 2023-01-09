@@ -1,0 +1,59 @@
+﻿@using SanProject.Shared.BookingModels
+@model ReservationDetailDTO
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div id="booking_details">
+    <h3>Booking Complete</h3>
+    <div id="booking_details_sections">
+        <h4>@Model.serviceDetails.hotelDetail.name</h4>
+        <div>
+            <div>
+                <span>@(Model.serviceDetails.hotelDetail.country.name), @(Model.serviceDetails.hotelDetail.city.name)</span>
+            </div>
+            @if (@Model.serviceDetails.hotelDetail.address.address!=null)
+            {
+              <div>
+                <span class="hotel_detail_info_title">Address: </span><span>@Model.serviceDetails.hotelDetail.address.address</span>
+                </div>  
+            }
+            
+            <div>
+                <span class="hotel_detail_info_title">Phone: </span><span>@(Model.serviceDetails.hotelDetail.phoneNumber)</span>
+            </div>
+            <div>
+                <span class="hotel_detail_info_title">Fax: </span><span>@(Model.serviceDetails.hotelDetail.faxNumber)</span>
+            </div>
+            
+            
+            <a href=@Model.serviceDetails.hotelDetail.homePage>Website</a>
+        </div>
+        <h5>The Travellers: </h5>
+        <div id="traveller_container">
+            @for(int i = 0; i < @Model.travellers.Count; i++)
+            {
+                <div>
+                    <span class="hotel_detail_info_title">Name: </span><span>@(Model.travellers[i].name)</span><br/>
+                    <span class="hotel_detail_info_title">Surname: </span><span>@(Model.travellers[i].surname)</span><br/>
+                    <span class="hotel_detail_info_title">Nationality: </span><span>@(Model.travellers[i].nationality.name)</span><br/>
+                    <span class="hotel_detail_info_title">Traveller ID: </span><span>@(Model.travellers[i].travellerId)<span/><br/>
+                </div>
+            }
+        </div>
+        <div>
+            <h5>Agency</h5><br/>
+            <span class="hotel_detail_info_title">Agency Name: </span><span>@(Model.agency.name)</span><br/>
+            @if (Model.agency.address.address != null && Model.agency.address.address!="")
+            {
+                <span class="hotel_detail_info_title">Agency Address: </span><span>@(Model.agency.address.address)</span><br/>   
+            }
+            
+            <span class="hotel_detail_info_title">Agency Name: </span><span>@(Model.agencyUser.@operator.name)</span><br/>
+        </div>
+
+
+    </div>
+</div>

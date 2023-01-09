@@ -1,0 +1,26 @@
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Shared\bin\Debug\netcoreapp3.1\SanProject.Shared.deps.json
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Shared\bin\Debug\netcoreapp3.1\SanProject.Shared.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Shared\bin\Debug\netcoreapp3.1\SanProject.Shared.pdb
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Shared\obj\Debug\netcoreapp3.1\SanProject.Shared.csproj.AssemblyReference.cache
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Shared\obj\Debug\netcoreapp3.1\SanProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Shared\obj\Debug\netcoreapp3.1\SanProject.Shared.AssemblyInfoInputs.cache
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Shared\obj\Debug\netcoreapp3.1\SanProject.Shared.AssemblyInfo.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Shared\obj\Debug\netcoreapp3.1\SanProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Shared\obj\Debug\netcoreapp3.1\SanProject.Shared.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Shared\obj\Debug\netcoreapp3.1\SanProject.Shared.pdb
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Shared\bin\Debug\netcoreapp3.1\SanProject.Domain.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Shared\bin\Debug\netcoreapp3.1\SanProject.Domain.pdb
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Shared\obj\Debug\netcoreapp3.1\SanProject.Shared.csproj.CopyComplete
+C:\SanProject\SanProject.Shared\bin\Debug\netcoreapp3.1\SanProject.Shared.deps.json
+C:\SanProject\SanProject.Shared\bin\Debug\netcoreapp3.1\SanProject.Shared.dll
+C:\SanProject\SanProject.Shared\bin\Debug\netcoreapp3.1\SanProject.Shared.pdb
+C:\SanProject\SanProject.Shared\bin\Debug\netcoreapp3.1\SanProject.Domain.dll
+C:\SanProject\SanProject.Shared\bin\Debug\netcoreapp3.1\SanProject.Domain.pdb
+C:\SanProject\SanProject.Shared\obj\Debug\netcoreapp3.1\SanProject.Shared.csproj.AssemblyReference.cache
+C:\SanProject\SanProject.Shared\obj\Debug\netcoreapp3.1\SanProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\SanProject\SanProject.Shared\obj\Debug\netcoreapp3.1\SanProject.Shared.AssemblyInfoInputs.cache
+C:\SanProject\SanProject.Shared\obj\Debug\netcoreapp3.1\SanProject.Shared.AssemblyInfo.cs
+C:\SanProject\SanProject.Shared\obj\Debug\netcoreapp3.1\SanProject.Shared.csproj.CoreCompileInputs.cache
+C:\SanProject\SanProject.Shared\obj\Debug\netcoreapp3.1\SanProject.Shared.csproj.CopyComplete
+C:\SanProject\SanProject.Shared\obj\Debug\netcoreapp3.1\SanProject.Shared.dll
+C:\SanProject\SanProject.Shared\obj\Debug\netcoreapp3.1\SanProject.Shared.pdb

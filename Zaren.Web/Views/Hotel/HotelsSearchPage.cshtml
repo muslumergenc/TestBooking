@@ -1,0 +1,18 @@
+﻿@using SanProject.Shared.HotelModels
+@model AllHotelQueryDTO
+@{
+}
+<div id="traveller_number_container">
+    <h3>Enter The Number Of Travellers</h3>
+    <form method="post" asp-controller="Hotel" asp-action="Index">
+        <div id="traveller_number_inputdiv">
+            <input type="hidden" readonly value=@Model.LocationId asp-for=LocationId></input>
+            <label asp-for=NumberOfTravellers>Number of Travellers</label>
+            <input min="1" type="number"  asp-for=NumberOfTravellers value=1></input>
+            <label asp-for=ChcekIn>Check In Date</label>
+            <input onkeydown="return false" min="@DateTime.Now.ToString("yyyy-MM-dd")" value="@DateTime.Now.ToString("yyyy-MM-dd")" type="date"  asp-for=ChcekIn ></input>
+            <button type="submit" class="kaydetmeButonu">Submit</button>
+       </div>
+        
+    </form>
+</div>

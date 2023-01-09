@@ -1,0 +1,17 @@
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Application\bin\Debug\netcoreapp3.1\Zaren.Application.deps.json
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Application\bin\Debug\netcoreapp3.1\Zaren.Application.dll
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Application\bin\Debug\netcoreapp3.1\Zaren.Application.pdb
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Application\bin\Debug\netcoreapp3.1\Zaren.Data.dll
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Application\bin\Debug\netcoreapp3.1\Zaren.Domain.dll
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Application\bin\Debug\netcoreapp3.1\Zaren.Shared.dll
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Application\bin\Debug\netcoreapp3.1\Zaren.Data.pdb
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Application\bin\Debug\netcoreapp3.1\Zaren.Shared.pdb
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Application\bin\Debug\netcoreapp3.1\Zaren.Domain.pdb
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Application\obj\Debug\netcoreapp3.1\Zaren.Application.csproj.AssemblyReference.cache
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Application\obj\Debug\netcoreapp3.1\Zaren.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Application\obj\Debug\netcoreapp3.1\Zaren.Application.AssemblyInfoInputs.cache
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Application\obj\Debug\netcoreapp3.1\Zaren.Application.AssemblyInfo.cs
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Application\obj\Debug\netcoreapp3.1\Zaren.Application.csproj.CoreCompileInputs.cache
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Application\obj\Debug\netcoreapp3.1\Zaren.Application.csproj.CopyComplete
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Application\obj\Debug\netcoreapp3.1\Zaren.Application.dll
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Application\obj\Debug\netcoreapp3.1\Zaren.Application.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SanProject.Shared/1.0.0": {
+        "dependencies": {
+          "SanProject.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SanProject.Shared.dll": {}
+        }
+      },
+      "SanProject.Domain/1.0.0": {
+        "runtime": {
+          "SanProject.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SanProject.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SanProject.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

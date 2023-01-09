@@ -1,0 +1,16 @@
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Data\bin\Debug\netcoreapp3.1\Zaren.Data.deps.json
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Data\bin\Debug\netcoreapp3.1\Zaren.Data.runtimeconfig.json
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Data\bin\Debug\netcoreapp3.1\Zaren.Data.runtimeconfig.dev.json
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Data\bin\Debug\netcoreapp3.1\Zaren.Data.dll
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Data\bin\Debug\netcoreapp3.1\Zaren.Data.pdb
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Data\bin\Debug\netcoreapp3.1\Zaren.Domain.dll
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Data\bin\Debug\netcoreapp3.1\Zaren.Domain.pdb
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Data\obj\Debug\netcoreapp3.1\Zaren.Data.csproj.AssemblyReference.cache
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Data\obj\Debug\netcoreapp3.1\Zaren.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Data\obj\Debug\netcoreapp3.1\Zaren.Data.AssemblyInfoInputs.cache
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Data\obj\Debug\netcoreapp3.1\Zaren.Data.AssemblyInfo.cs
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Data\obj\Debug\netcoreapp3.1\Zaren.Data.csproj.CoreCompileInputs.cache
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Data\obj\Debug\netcoreapp3.1\Zaren.Data.csproj.CopyComplete
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Data\obj\Debug\netcoreapp3.1\Zaren.Data.dll
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Data\obj\Debug\netcoreapp3.1\Zaren.Data.pdb
+C:\Users\muslu\OneDrive\Belgeler\GitHub\ZarenFramework\Paximum\Zaren.Data\obj\Debug\netcoreapp3.1\Zaren.Data.genruntimeconfig.cache

@@ -1,0 +1,63 @@
+﻿@model SanProject.Domain.User
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<form method="post" asp-action="Edit">
+    <h1>"Edit User"</h1>
+    <div asp-validation-summary="All"></div>
+
+    <div class="girisalani">
+        <label asp-for="Id"></label>
+        <input readonly asp-for="Id" />
+        <span asp-validation-for="Id"></span>
+    </div>
+    <div class="girisalani">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </div>
+    <div class="girisalani">
+        <label asp-for="Password"></label>
+        <input asp-for="Password" />
+        <span asp-validation-for="Password"></span>
+    </div>
+    
+    <div class="girisalani">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" />
+        <span asp-validation-for="Email"></span>
+
+    </div>
+
+    <div class="girisalani">
+        <label asp-for="RegistryDate"></label>
+        <input readonly asp-for="RegistryDate" />
+        <span asp-validation-for="RegistryDate"></span>
+
+    </div>
+    <div class="girisalani" id="test">
+        <label asp-for="IsActive"></label>
+        <input asp-for="IsActive" />
+        <span asp-validation-for="IsActive"></span>
+
+    </div>
+    <div class="girisalani" id="test">
+        <label asp-for="IsDeleted"></label>
+        <input asp-for="IsDeleted" />
+        <span asp-validation-for="IsDeleted"></span>
+
+    </div>
+    <button type="submit" class="kaydetmeButonu">Save</button>
+    <button type="reset" class="kaydetmeButonu">Reset</button>
+    <a asp-controller="Users" asp-action="Index">Back To User List</a>
+</form>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+
+}

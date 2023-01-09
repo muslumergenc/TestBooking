@@ -1,0 +1,32 @@
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Data\bin\Debug\netcoreapp3.1\SanProject.Data.deps.json
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Data\bin\Debug\netcoreapp3.1\SanProject.Data.runtimeconfig.json
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Data\bin\Debug\netcoreapp3.1\SanProject.Data.runtimeconfig.dev.json
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Data\bin\Debug\netcoreapp3.1\SanProject.Data.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Data\bin\Debug\netcoreapp3.1\SanProject.Data.pdb
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Data\bin\Debug\netcoreapp3.1\SanProject.Domain.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Data\bin\Debug\netcoreapp3.1\SanProject.Domain.pdb
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Data\obj\Debug\netcoreapp3.1\SanProject.Data.csproj.AssemblyReference.cache
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Data\obj\Debug\netcoreapp3.1\SanProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Data\obj\Debug\netcoreapp3.1\SanProject.Data.AssemblyInfoInputs.cache
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Data\obj\Debug\netcoreapp3.1\SanProject.Data.AssemblyInfo.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Data\obj\Debug\netcoreapp3.1\SanProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Data\obj\Debug\netcoreapp3.1\SanProject.Data.csproj.CopyComplete
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Data\obj\Debug\netcoreapp3.1\SanProject.Data.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Data\obj\Debug\netcoreapp3.1\SanProject.Data.pdb
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Data\obj\Debug\netcoreapp3.1\SanProject.Data.genruntimeconfig.cache
+C:\SanProject\SanProject.Data\bin\Debug\netcoreapp3.1\SanProject.Data.deps.json
+C:\SanProject\SanProject.Data\bin\Debug\netcoreapp3.1\SanProject.Data.runtimeconfig.json
+C:\SanProject\SanProject.Data\bin\Debug\netcoreapp3.1\SanProject.Data.runtimeconfig.dev.json
+C:\SanProject\SanProject.Data\bin\Debug\netcoreapp3.1\SanProject.Data.dll
+C:\SanProject\SanProject.Data\bin\Debug\netcoreapp3.1\SanProject.Data.pdb
+C:\SanProject\SanProject.Data\bin\Debug\netcoreapp3.1\SanProject.Domain.dll
+C:\SanProject\SanProject.Data\bin\Debug\netcoreapp3.1\SanProject.Domain.pdb
+C:\SanProject\SanProject.Data\obj\Debug\netcoreapp3.1\SanProject.Data.csproj.AssemblyReference.cache
+C:\SanProject\SanProject.Data\obj\Debug\netcoreapp3.1\SanProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\SanProject\SanProject.Data\obj\Debug\netcoreapp3.1\SanProject.Data.AssemblyInfoInputs.cache
+C:\SanProject\SanProject.Data\obj\Debug\netcoreapp3.1\SanProject.Data.AssemblyInfo.cs
+C:\SanProject\SanProject.Data\obj\Debug\netcoreapp3.1\SanProject.Data.csproj.CoreCompileInputs.cache
+C:\SanProject\SanProject.Data\obj\Debug\netcoreapp3.1\SanProject.Data.csproj.CopyComplete
+C:\SanProject\SanProject.Data\obj\Debug\netcoreapp3.1\SanProject.Data.dll
+C:\SanProject\SanProject.Data\obj\Debug\netcoreapp3.1\SanProject.Data.pdb
+C:\SanProject\SanProject.Data\obj\Debug\netcoreapp3.1\SanProject.Data.genruntimeconfig.cache

@@ -1,0 +1,231 @@
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Web.exe
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Web.deps.json
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Web.runtimeconfig.json
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Web.runtimeconfig.dev.json
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Web.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Web.pdb
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Web.Views.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Web.Views.pdb
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Application.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Data.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Domain.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Shared.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Application.pdb
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Data.pdb
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Shared.pdb
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Domain.pdb
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.csproj.AssemblyReference.cache
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.AssemblyInfoInputs.cache
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.AssemblyInfo.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.RazorAssemblyInfo.cache
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.RazorAssemblyInfo.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\staticwebassets\SanProject.Web.StaticWebAssets.Manifest.cache
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.TagHelpers.input.cache
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.TagHelpers.output.cache
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.RazorCoreGenerate.cache
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.RazorTargetAssemblyInfo.cache
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.RazorTargetAssemblyInfo.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.Views.pdb
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.csproj.CopyComplete
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.pdb
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.genruntimeconfig.cache
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Users\Registration.cshtml.g.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cities.cshtml.g.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\Index.cshtml.g.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\HotelDetail.cshtml.g.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\NumberOfTravelers.cshtml.g.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Index.cshtml.g.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Booking.cshtml.g.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\logs-{Date}20220613.json
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Logs\logs-{Date}20220613.json
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\HotelsSearchPage.cshtml.g.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\logs-{Date}20220614.json
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\logs-{Date}20220613.json
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\logs-{Date}20220614.json
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Logs\logs-{Date}20220613.json
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Web.exe
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Web.deps.json
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Web.runtimeconfig.json
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Web.runtimeconfig.dev.json
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Web.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Web.pdb
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Web.Views.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Web.Views.pdb
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Application.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Data.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Domain.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Shared.dll
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Application.pdb
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Data.pdb
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Shared.pdb
+C:\SanProject\SanProject.Web\bin\Debug\netcoreapp3.1\SanProject.Domain.pdb
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.csproj.AssemblyReference.cache
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.AssemblyInfoInputs.cache
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.AssemblyInfo.cs
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.csproj.CoreCompileInputs.cache
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.RazorAssemblyInfo.cache
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.RazorAssemblyInfo.cs
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\staticwebassets\SanProject.Web.StaticWebAssets.Manifest.cache
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\staticwebassets\SanProject.Web.StaticWebAssets.Pack.cache
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SanProject.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SanProject.Web.props
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SanProject.Web.props
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SanProject.Web.props
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.TagHelpers.input.cache
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.TagHelpers.output.cache
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.RazorCoreGenerate.cache
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Booking.cshtml.g.cs
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Index.cshtml.g.cs
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cities.cshtml.g.cs
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\HotelDetail.cshtml.g.cs
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\HotelsSearchPage.cshtml.g.cs
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\Index.cshtml.g.cs
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\NumberOfTravelers.cshtml.g.cs
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Users\Registration.cshtml.g.cs
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.RazorTargetAssemblyInfo.cache
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.RazorTargetAssemblyInfo.cs
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.Views.pdb
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.csproj.CopyComplete
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.dll
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.pdb
+C:\SanProject\SanProject.Web\obj\Debug\netcoreapp3.1\SanProject.Web.genruntimeconfig.cache

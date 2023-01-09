@@ -1,0 +1,32 @@
+﻿@using SanProject.Domain.SetReservation
+@using SanProject.Shared.BookingModels
+@model BookingFormsViewModel
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h3>Enter Required Traveller Info</h3>
+<div id="traveller_formsdiv">
+    
+    <form method="post" asp-action="Booking" id="traveller_bookingform">
+        
+    @for(int i=0; i<Model.travellernumber;i++)
+    {
+        
+        <div class="traveller_form_field">
+            <input type="hidden" readonly asp-for=@Model.offerId value=@Model.offerId>
+            <input type="hidden" readonly asp-for=@Model.currency value=@Model.currency>
+            <input type="hidden" readonly asp-for=@Model.culture value=@Model.culture>
+            <label asp-for=@Model.travellers[i].name>Name</label>
+            <input asp-for=@Model.travellers[i].name></input>
+            <label asp-for=@Model.travellers[i].surname>Surname</label>
+            <input asp-for=@Model.travellers[i].surname></input>
+            <label asp-for=@Model.travellers[i].address.email>Email</label>
+            <input asp-for=@Model.travellers[i].address.email></input>
+        </div>
+        
+    }
+    </form>
+    <button type="submit" form="traveller_bookingform">Submit</button>
+</div>

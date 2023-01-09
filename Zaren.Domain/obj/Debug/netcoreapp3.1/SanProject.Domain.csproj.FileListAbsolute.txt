@@ -1,0 +1,20 @@
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Domain\bin\Debug\netcoreapp3.1\SanProject.Domain.deps.json
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Domain\bin\Debug\netcoreapp3.1\SanProject.Domain.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Domain\bin\Debug\netcoreapp3.1\SanProject.Domain.pdb
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Domain\obj\Debug\netcoreapp3.1\SanProject.Domain.csproj.AssemblyReference.cache
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Domain\obj\Debug\netcoreapp3.1\SanProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Domain\obj\Debug\netcoreapp3.1\SanProject.Domain.AssemblyInfoInputs.cache
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Domain\obj\Debug\netcoreapp3.1\SanProject.Domain.AssemblyInfo.cs
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Domain\obj\Debug\netcoreapp3.1\SanProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Domain\obj\Debug\netcoreapp3.1\SanProject.Domain.dll
+C:\Users\ZBOOK 15 G5\Desktop\mvcday\SanProject\SanProject.Domain\obj\Debug\netcoreapp3.1\SanProject.Domain.pdb
+C:\SanProject\SanProject.Domain\bin\Debug\netcoreapp3.1\SanProject.Domain.deps.json
+C:\SanProject\SanProject.Domain\bin\Debug\netcoreapp3.1\SanProject.Domain.dll
+C:\SanProject\SanProject.Domain\bin\Debug\netcoreapp3.1\SanProject.Domain.pdb
+C:\SanProject\SanProject.Domain\obj\Debug\netcoreapp3.1\SanProject.Domain.csproj.AssemblyReference.cache
+C:\SanProject\SanProject.Domain\obj\Debug\netcoreapp3.1\SanProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\SanProject\SanProject.Domain\obj\Debug\netcoreapp3.1\SanProject.Domain.AssemblyInfoInputs.cache
+C:\SanProject\SanProject.Domain\obj\Debug\netcoreapp3.1\SanProject.Domain.AssemblyInfo.cs
+C:\SanProject\SanProject.Domain\obj\Debug\netcoreapp3.1\SanProject.Domain.csproj.CoreCompileInputs.cache
+C:\SanProject\SanProject.Domain\obj\Debug\netcoreapp3.1\SanProject.Domain.dll
+C:\SanProject\SanProject.Domain\obj\Debug\netcoreapp3.1\SanProject.Domain.pdb
