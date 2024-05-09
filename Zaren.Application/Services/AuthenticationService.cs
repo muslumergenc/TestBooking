@@ -30,9 +30,9 @@ namespace SanProject.Application.Services
         {
             var user = new
             {
-                Agency = "PXM25520",
+                Agency = "agencyNo",
                 User = "USR1",
-                Password = "zaren!23"
+                Password = "passworduser"
             };
             var client = new HttpClient();
             var content = JsonConvert.SerializeObject(user);
